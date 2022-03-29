@@ -17,9 +17,28 @@
 ![Файл cellmarkfiletable.txt](https://github.com/antonsokol57/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
 ![Папка с выдачей ChromHMM](https://github.com/antonsokol57/hse_hw3_chromhmm/tree/main/HW3_chromhmm)
 
-## Основные картинки из выдачи ChromHMM
+## Основные картинки из выдачи ChromHMM, остальные см в папке с выдачей ChromHMM
 
 ![](https://github.com/antonsokol57/hse_hw3_chromhmm/blob/main/HW3_chromhmm/H1-hESC_10_overlap.png) ![](https://github.com/antonsokol57/hse_hw3_chromhmm/blob/main/HW3_chromhmm/emissions_10.png)
+
+## Таблица состояний
+
+|состояние|Аннотация|
+|-|-|
+|1|__Repressed__|
+|2|__Poised_Promoter__|
+|3|__Active_Promoter__|
+|4|__Weak_Promoter__|
+|5|__Weak_Txn__|
+|6|__Weak_Txn__|
+|7|__Txn_Elongation__|
+|8|__Heterochrom/Io__|
+|9|__Weak_Enhancer__|
+|10|__Weak_Enhancer__|
+
 ## Кртинки из UCSC GenomeBrowser
 ![image](https://user-images.githubusercontent.com/92381120/160668019-8da13180-e622-40ea-b7ca-33030c829185.png)
 ![image](https://user-images.githubusercontent.com/92381120/160669091-ccf063da-45eb-40f8-a36a-b39e54d57467.png)
+
+## Бонусное задание
+![Результат бонусного задания](https://github.com/antonsokol57/hse_hw3_chromhmm/blob/main/H1-hESC_10_dense_edited.bed)
