@@ -14,7 +14,7 @@
 |H3k09me3|H3k09me3.bam|
 
 ![Файл cellmarkfiletable.txt](https://github.com/antonsokol57/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
-![Папку с выдачей ChromHMM](https://github.com/antonsokol57/hse_hw3_chromhmm/tree/main/HW3_chromhmm)
+![Папка с выдачей ChromHMM](https://github.com/antonsokol57/hse_hw3_chromhmm/tree/main/HW3_chromhmm)
 
 ## Основные картинки из выдачи ChromHMM
 
